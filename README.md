@@ -2,7 +2,7 @@
 
 `Technology Student`
 
-My name is Tiago Gomes Carvalho, I am 19 years old, and I am from Tocantins, Brazil. I graduated from high school at Colégio Bom Jesus and have completed a full Python training course from Hashtag Treinamentos. Currently, I am dedicated to my studies with the goal of being accepted into the Computer Science program at the Federal University of Tocantins (UFT). I am passionate about technology and use my free time to continuously expand my knowledge across the various fields within the industry.
+My name is Tiago Gomes Carvalho, I am 19 years old, and I am from Tocantins, Brazil. I graduated from high school at Colégio Bom Jesus and have completed a full Python training course from Hashtag Treinamentos. I am currently preparing for the entrance exams for the Computer Science program at the Federal University of Tocantins (UFT). I am passionate about technology and use my free time to continuously expand my knowledge across the various fields within the industry.
 
 To learn more about my background and projects, please visit my LinkedIn profile: "[Tiago carvalho](https://www.linkedin.com/in/tiago-carvalho-34a93a371)".
 

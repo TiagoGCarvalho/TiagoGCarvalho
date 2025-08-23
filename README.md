@@ -136,11 +136,11 @@ To learn more about my background and projects, please visit my LinkedIn profile
 />
 <img
     align= "left"
-    alt="sqlite"
-    title="sqlite"
+    alt="oracle"
+    title="oracle"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
 />
 
 <br/>

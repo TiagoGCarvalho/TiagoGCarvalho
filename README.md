@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Tiago Carvalho
 
-`Technology Student`
+`Welcome to my profile!`
 
 My name is Tiago Gomes Carvalho, I am 19 years old, and I am from Tocantins, Brazil. I graduated from high school at Colégio Bom Jesus and have completed a full Python training course from Hashtag Treinamentos. I am currently preparing for the entrance exams for the Computer Science program at the Federal University of Tocantins (UFT). I am passionate about technology and use my free time to continuously expand my knowledge across the various fields within the industry.
 
@@ -67,22 +67,6 @@ To learn more about my background and projects, please visit my LinkedIn profile
 />
 <img
     align= "left"
-    alt="javascript"
-    title="javascript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img
-    align= "left"
-    alt="nodejs"
-    title="nodejs"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img
-    align= "left"
     alt="git"
     title="git"
     width="30px"
@@ -107,6 +91,62 @@ To learn more about my background and projects, please visit my LinkedIn profile
 />
 <br/>
 <br/>
+
+### 📝 What i'm learning 
+
+<img
+    align= "left"
+    alt="javascript"
+    title="javascript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img
+    align= "left"
+    alt="nodejs"
+    title="nodejs"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img
+    align= "left"
+    alt="azuresqldatabase"
+    title="azuresqldatabase"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
+<img
+    align= "left"
+    alt="mysql"
+    title="mysql"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img
+    align= "left"
+    alt="postgresql"
+    title="postgresql"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img
+    align= "left"
+    alt="sqlite"
+    title="sqlite"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
+/>
+
+<br/>
+<br/>
+
+---
 
 ### 📊  Stats
 
